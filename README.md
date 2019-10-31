@@ -1,4 +1,2 @@
 # CO2220-Coursework1-2018
- Submissions for CO2220 (Java and Object-Oriented Programming) Coursework 1 (2018)
-\nHangman and WordSleuth games
-\nAnimated GUI with 2D shapes and their movements
+ Submissions for CO2220 (Java and Object-Oriented Programming) Coursework 1 (2018). Hangman and WordSleuth games. Animated GUI with 2D shapes and their movements
